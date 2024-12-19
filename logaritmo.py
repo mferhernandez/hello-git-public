@@ -1,1 +1,1 @@
-print("esto es el logaritmo de develop")
+print("esto es el logaritmo de main")
